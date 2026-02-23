@@ -5,3 +5,7 @@ The Goal: Determine which factors (e.g., last_evaluation, number_project, averag
 
 Database title: Expanded HR Analytics Data Lab Link: https://www.kaggle.com/datasets/krismurphy01/data-lab?resource=download
 
+![Model](model.png)
+
+
+The project implements Markow Chains, extensive data exploratory analysis, and validations of the model
