@@ -8,4 +8,4 @@ Database title: Expanded HR Analytics Data Lab Link: https://www.kaggle.com/data
 ![Model](model.png)
 
 
-The project implements Markow Chains, extensive data exploratory analysis, and validations of the model
+The project implements Markow Chains, extensive data exploratory analysis, and validations of the model using R. The resuts are saved as an HTML
